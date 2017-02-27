@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP GP2S60
-D Reflective photointerrupter
-K photointerrupter IR
-$ENDCMP
-#
-#End Doc Library
