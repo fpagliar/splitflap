@@ -15,28 +15,11 @@ Prototype two-character display: [video](https://www.youtube.com/watch?v=bslkflV
 [![prototype video](renders/prototypeVideoThumbnail.jpg)](https://www.youtube.com/watch?v=bslkflVv-Hw)
 
 ### Current Status ###
-This design is currently at a *prototype* stage. The source files provided here were able to produce a working prototype (with some manual modifications to correct for slight errors/omissions), but aren't necessarily recommended yet unless you enjoy incomplete documentation, frustration, and adventure!
 
-| Component | Status | Notes |
-| --- | --- | --- |
-| Enclosure/Mechanics | *Release Candidate* | Need documentation on ordering. |
-| Electronics | *Beta* | Works but requires SMD soldering experience. Considering creating simpler variant: [#12](https://github.com/scottbez1/splitflap/issues/12) |
-| Firmware | *Alpha* | Works, but needs cleanup, testing, and stable serial protocol |
-| Control Software | *none* | No work started; currently manual control using Arduino Serial Monitor |
+In progress!
 
-I'd love to hear your thoughts and questions about this project, and happy to incorporate any feedback you might have into these designs! Please feel free (and encouraged) to [open GitHub issues](https://github.com/scottbez1/splitflap/issues/new), email me directly, reach out [on Twitter](https://twitter.com/scottbez1), and [get involved](https://github.com/scottbez1/splitflap/pulls) in the open source development and let's keep chatting and building together!
-
-### Design Highlights ###
-
-### Materials ###
-
-## Build Your Own: Instructions ##
-This design is still a work in progress; a build log/instructions for building a prototype split-flap display of your own is posted in [the wiki](https://github.com/scottbez1/splitflap/wiki).
-
-<a href="https://github.com/scottbez1/splitflap/wiki">
-<img height="320" src="https://github.com/scottbez1/splitflap/wiki/images/assembly/laserPieces.jpg"/>
-<img height="320" src="https://github.com/scottbez1/splitflap/wiki/images/flaps/punchedCard.jpg"/>
-</a>
+## How to build: Instructions ##
+This design is still a work in progress; a build log/instructions for building a prototype split-flap display of your own is posted in [the wiki](https://github.com/fpagliar/splitflap/wiki).
 
 ## License ##
 I'd love to hear your thoughts and questions about this project, and happy to incorporate any feedback you might have into these designs! Please feel free (and encouraged) to [open GitHub issues](https://github.com/scottbez1/splitflap/issues/new), email me directly, reach out [on Twitter](https://twitter.com/scottbez1), and [get involved](https://github.com/scottbez1/splitflap/pulls) in the open source development and let's keep chatting and building together!
