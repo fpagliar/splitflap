@@ -22,7 +22,7 @@ In progress!
 This design is still a work in progress; a build log/instructions for building a prototype split-flap display of your own is posted in [the wiki](https://github.com/fpagliar/splitflap/wiki).
 
 ## License ##
-I'd love to hear your thoughts and questions about this project, and happy to incorporate any feedback you might have into these designs! Please feel free (and encouraged) to [open GitHub issues](https://github.com/scottbez1/splitflap/issues/new), email me directly, reach out [on Twitter](https://twitter.com/scottbez1), and [get involved](https://github.com/scottbez1/splitflap/pulls) in the open source development and let's keep chatting and building together!
+I'd love to hear your thoughts and questions about this project, and happy to incorporate any feedback you might have into these designs! Please feel free (and encouraged) to [open GitHub issues](https://github.com/fpagliar/splitflap/issues/new), or email me about any questions, suggestions, even excitement about the project on fpagliaricci@hotmail.com
 
 The vast majority of this project is licensed under Apache v2 (see [LICENSE.txt](LICENSE.txt) for full details).
 
